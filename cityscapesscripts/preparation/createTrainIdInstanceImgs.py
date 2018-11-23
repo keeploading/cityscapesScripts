@@ -68,7 +68,7 @@ def main():
         # create the output filename
         # dst = f.replace( "_polygons.json" , "_instanceTrainIds.png" )
         dst = f.replace( "_polygons.json" , "_instanceIds.png" )
-
+        print("Processing file:{}".format(dst))
         # do the conversion
         try:
             # json2instanceImg( f , dst , "trainIds" )

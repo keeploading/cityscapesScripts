@@ -107,6 +107,7 @@ labels = [
     Label(  'yellow dashed-solid'  , 43 ,       19 , 'lane line'       , 8       , True         , False        , (119, 119, 32) ),
     Label(  'yellow solid-dashed'  , 44 ,       19 , 'lane line'       , 8       , True         , False        , (119, 119, 32) ),
     Label(  'boundary'  	   , 45 ,       19 , 'lane line'       , 8       , True         , False        , (66, 119, 32) ),
+    Label(  'fork_line'  	   , 46 ,       19 , 'fork_line'       , 8       , True         , False        , (66, 119, 32) ),
     Label(  'license plate'        , -1 ,       -1 , 'vehicle'         , 7       , False        , True         , (  0,  0,142) ),
 ]
 
