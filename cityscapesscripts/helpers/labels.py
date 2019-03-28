@@ -119,6 +119,7 @@ labels = [
     Label(  'arrow_inclined_l'          , 55 ,       40 , 'arrow'       , 9       , True         , False        , (66, 222, 119) ),
     Label(  'arrow_inclined_r'          , 56 ,       41 , 'arrow'       , 9       , True         , False        , (222, 111, 111) ),
     Label(  'arrow_lrs'                 , 57 ,       42 , 'arrow'       , 9       , True         , False        , (111, 222, 119) ),
+    Label(  'handrail'                 , 58 ,       43 , 'lane line'       , 10       , True         , False        , (222, 222, 119) ),
     Label(  'license plate'        , -1 ,       -1 , 'vehicle'         , 7       , False        , True         , (  0,  0,142) ),
 ]
 
